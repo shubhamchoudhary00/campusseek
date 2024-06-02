@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "campusseek",
+  "webDir": "www.campusseek.web.app",
+  "server": {
+    "androidScheme": "https"
+  }
+}
